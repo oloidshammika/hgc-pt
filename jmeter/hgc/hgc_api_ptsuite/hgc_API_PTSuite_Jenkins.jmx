@@ -9,7 +9,7 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="Threads" elementType="Argument">
             <stringProp name="Argument.name">Threads</stringProp>
-            <stringProp name="Argument.value">${__P(Threads,200)}</stringProp>
+            <stringProp name="Argument.value">${__P(Threads,300)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="Loops" elementType="Argument">
@@ -34,7 +34,7 @@
           </elementProp>
           <elementProp name="ThinkTime" elementType="Argument">
             <stringProp name="Argument.name">ThinkTime</stringProp>
-            <stringProp name="Argument.value">${__P(ThinkTime,30)}</stringProp>
+            <stringProp name="Argument.value">${__P(ThinkTime,0)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="P_BaseURL" elementType="Argument">
@@ -98,7 +98,7 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="fixedPart" elementType="Argument">
             <stringProp name="Argument.name">fixedPart</stringProp>
-            <stringProp name="Argument.value">441</stringProp>
+            <stringProp name="Argument.value">440</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
@@ -342,7 +342,7 @@
         </BackendListener>
         <hashTree/>
         <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
-          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <boolProp name="ResultCollector.error_logging">true</boolProp>
           <objProp>
             <name>saveConfig</name>
             <value class="SampleSaveConfiguration">
@@ -489,7 +489,7 @@
                 </elementProp>
                 <elementProp name="" elementType="Header">
                   <stringProp name="Header.name">Authorization</stringProp>
-                  <stringProp name="Header.value">Basic NWtwZWFtM2s4ZHE3aWc4NDFuc2I2c201djk6Z2Nlc2k0M242cmpzamIydnNramQ0NmNpY3FlMWg4YTVmdGFodmdrOWVpMjRjOTZvZmx2</stringProp>
+                  <stringProp name="Header.value">Basic NTdsdHY3a2p1MDBkZmI1bTEyM2dqYTVsbWU6MTg0MDVrODk1MG00a2lpN2l1MHI5cnRzaGFuOWU2b3BqbG5pNmdqdjRsb2Y1aDVwNHU4aw==</stringProp>
                 </elementProp>
                 <elementProp name="" elementType="Header">
                   <stringProp name="Header.name">Accept</stringProp>
