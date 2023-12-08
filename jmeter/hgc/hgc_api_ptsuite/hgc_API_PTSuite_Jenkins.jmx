@@ -9,7 +9,7 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="Threads" elementType="Argument">
             <stringProp name="Argument.name">Threads</stringProp>
-            <stringProp name="Argument.value">${__P(Threads,300)}</stringProp>
+            <stringProp name="Argument.value">${__P(Threads,350)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="Loops" elementType="Argument">
@@ -34,7 +34,7 @@
           </elementProp>
           <elementProp name="ThinkTime" elementType="Argument">
             <stringProp name="Argument.name">ThinkTime</stringProp>
-            <stringProp name="Argument.value">${__P(ThinkTime,0)}</stringProp>
+            <stringProp name="Argument.value">${__P(ThinkTime,1)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="P_BaseURL" elementType="Argument">
@@ -179,7 +179,7 @@
     &quot;house_number&quot;: &quot;123&quot;,&#xd;
     &quot;postal_code&quot;: &quot;00300&quot;,&#xd;
     &quot;age_is_greater_than&quot;:&quot;18&quot;,&#xd;
-    &quot;last_name&quot;: &quot;Abc&quot;,&#xd;
+    &quot;last_name&quot;: &quot;Abcs&quot;,&#xd;
     &quot;first_name&quot;:&quot;Xyz&quot;,&#xd;
     &quot;date_of_birth&quot;:&quot;1990/11/20&quot;&#xd;
 }</stringProp>
@@ -342,7 +342,7 @@
         </BackendListener>
         <hashTree/>
         <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
-          <boolProp name="ResultCollector.error_logging">true</boolProp>
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
           <objProp>
             <name>saveConfig</name>
             <value class="SampleSaveConfiguration">
