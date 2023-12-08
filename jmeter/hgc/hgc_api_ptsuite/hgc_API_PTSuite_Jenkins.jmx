@@ -44,7 +44,7 @@
           </elementProp>
           <elementProp name="Token" elementType="Argument">
             <stringProp name="Argument.name">Token</stringProp>
-            <stringProp name="Argument.value">${__P(Token,eyJraWQiOiIzQUNsdlIzNHU3TFc1VnNoUW16U0VrTStKVHNDS1JoeWRya21YUG8rM2trPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1a3BlYW0zazhkcTdpZzg0MW5zYjZzbTV2OSIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiZGF0YXBvaW50XC9sYXN0X25hbWUgZGF0YXBvaW50XC9kZXZpY2VfbWF0Y2hfcmVkaXJlY3QgZGF0YXBvaW50XC9hZ2VfaXNfZ3JlYXRlcl90aGFuIGRhdGFwb2ludFwvc2ltX3N3YXAgZGF0YXBvaW50XC9maXJzdF9uYW1lIGRhdGFwb2ludFwvcG9zdGFsX2NvZGUgZGF0YXBvaW50XC9jYWxsX2Z3ZCBkYXRhcG9pbnRcL2RhdGVfb2ZfYmlydGggZGF0YXBvaW50XC9ob3VzZV9udW1iZXIiLCJhdXRoX3RpbWUiOjE3MDE4NzcxMTYsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0xXzJuWDFiWjQzYiIsImV4cCI6MTcwMTk2MzUxNiwiaWF0IjoxNzAxODc3MTE2LCJ2ZXJzaW9uIjoyLCJqdGkiOiJhMTZkOGQ3YS1jMTQwLTQ2N2MtOGI2OC05NTUxNTdlMmU1OGQiLCJjbGllbnRfaWQiOiI1a3BlYW0zazhkcTdpZzg0MW5zYjZzbTV2OSJ9.PHUnCTlRnuQzDj6TqL5cR5yV0FxDVUzBHDyhIVAIbb9K2frVtl3yZifsCy8XVKCYkwj9yUKAPFvwVxZEXLXkYbW58-0FFOzLREOiZXGJvR6akx_cJG1JguDI3XjZ0VwF7wDUTc_8Sy2PZxJ6bdvEOJEPARwQzO6fpGi7EBatRiv3lZU5azI8R-VfpaXmqvi3WwA1k7ha52lhWqXVElJFgVjFntu8Jzw0CuPmxWb2ibh2OybkS0UiLrfq4PjPpbmkhv827YGaPJmER0_XJx-goIQLwfZYOIMdaA-6YsUP4yuJqRwSgWJ9Fk3LgB2liTxWdYgJsEoRcj7SdYW_MiCCeg)}</stringProp>
+            <stringProp name="Argument.value">${__P(Token,eyJraWQiOiIzQUNsdlIzNHU3TFc1VnNoUW16U0VrTStKVHNDS1JoeWRya21YUG8rM2trPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1N2x0djdranUwMGRmYjVtMTIzZ2phNWxtZSIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiZGF0YXBvaW50XC9sYXN0X25hbWUgZGF0YXBvaW50XC9kZXZpY2VfbWF0Y2hfcmVkaXJlY3QgZGF0YXBvaW50XC9hZ2VfaXNfZ3JlYXRlcl90aGFuIGRhdGFwb2ludFwvc2ltX3N3YXAgZGF0YXBvaW50XC9maXJzdF9uYW1lIGRhdGFwb2ludFwvcG9zdGFsX2NvZGUgZGF0YXBvaW50XC9jYWxsX2Z3ZCBkYXRhcG9pbnRcL2RhdGVfb2ZfYmlydGggZGF0YXBvaW50XC9ob3VzZV9udW1iZXIiLCJhdXRoX3RpbWUiOjE3MDIwMzQwNjcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0xXzJuWDFiWjQzYiIsImV4cCI6MTcwMjEyMDQ2NywiaWF0IjoxNzAyMDM0MDY3LCJ2ZXJzaW9uIjoyLCJqdGkiOiI2NWNmMTUzMi00MzEyLTRmYzgtODJkYy1mYzYyMmFiZTdlNzAiLCJjbGllbnRfaWQiOiI1N2x0djdranUwMGRmYjVtMTIzZ2phNWxtZSJ9.EcAKUewnSvuhWwl6ox4llWce2JTwQ-xrZPEsbCUEiQuOlqtsGCTWROxhf3JAQwOV7b0PWuGm3-y0xe1QQXr0NyjhYxm_Bh3eRyHodSl6BgUNyR_gxjW9BxRi2gvVsYKsveWQb0U67IN9kutiMUtx-9hIyuGQDsdTMa2NmYXa8pogT23WyKos-nW3JlJBDfZ1Z9JQFroLb9JTvWFNi121Pf0GOOyHAmTD9odHcPoPicgAxdKUVQQyO-b3W7bGHci3f7KzFh6vTFQZTD45v-Sc3_o5WeCk83BNv0XkN-swYZvkAnAJoDd5EX4Ke2g04VuD0FwLU-prrqNlt65YqUZ-2g)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="SQL_Duration" elementType="Argument">
@@ -128,7 +128,7 @@
         <boolProp name="ThreadGroup.delayedStart">false</boolProp>
       </ThreadGroup>
       <hashTree>
-        <OnceOnlyController guiclass="OnceOnlyControllerGui" testclass="OnceOnlyController" testname="Once Only Controller" enabled="true"/>
+        <OnceOnlyController guiclass="OnceOnlyControllerGui" testclass="OnceOnlyController" testname="Once Only Controller" enabled="false"/>
         <hashTree>
           <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Module Controller" enabled="true">
             <collectionProp name="ModuleController.node_path">
@@ -164,7 +164,7 @@
             </elementProp>
             <elementProp name="" elementType="Header">
               <stringProp name="Header.name">Authorization</stringProp>
-              <stringProp name="Header.value">Bearer ${token}</stringProp>
+              <stringProp name="Header.value">Bearer ${Token}</stringProp>
             </elementProp>
           </collectionProp>
         </HeaderManager>
