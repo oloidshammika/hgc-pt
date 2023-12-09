@@ -29,7 +29,7 @@
           </elementProp>
           <elementProp name="Duration" elementType="Argument">
             <stringProp name="Argument.name">Duration</stringProp>
-            <stringProp name="Argument.value">${__P(Duration,3600)}</stringProp>
+            <stringProp name="Argument.value">${__P(Duration,86220)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="ThinkTime" elementType="Argument">
@@ -44,7 +44,7 @@
           </elementProp>
           <elementProp name="Token" elementType="Argument">
             <stringProp name="Argument.name">Token</stringProp>
-            <stringProp name="Argument.value">${__P(Token,eyJraWQiOiIzQUNsdlIzNHU3TFc1VnNoUW16U0VrTStKVHNDS1JoeWRya21YUG8rM2trPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1N2x0djdranUwMGRmYjVtMTIzZ2phNWxtZSIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiZGF0YXBvaW50XC9sYXN0X25hbWUgZGF0YXBvaW50XC9kZXZpY2VfbWF0Y2hfcmVkaXJlY3QgZGF0YXBvaW50XC9hZ2VfaXNfZ3JlYXRlcl90aGFuIGRhdGFwb2ludFwvc2ltX3N3YXAgZGF0YXBvaW50XC9maXJzdF9uYW1lIGRhdGFwb2ludFwvcG9zdGFsX2NvZGUgZGF0YXBvaW50XC9jYWxsX2Z3ZCBkYXRhcG9pbnRcL2RhdGVfb2ZfYmlydGggZGF0YXBvaW50XC9ob3VzZV9udW1iZXIiLCJhdXRoX3RpbWUiOjE3MDIwMzQwNjcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0xXzJuWDFiWjQzYiIsImV4cCI6MTcwMjEyMDQ2NywiaWF0IjoxNzAyMDM0MDY3LCJ2ZXJzaW9uIjoyLCJqdGkiOiI2NWNmMTUzMi00MzEyLTRmYzgtODJkYy1mYzYyMmFiZTdlNzAiLCJjbGllbnRfaWQiOiI1N2x0djdranUwMGRmYjVtMTIzZ2phNWxtZSJ9.EcAKUewnSvuhWwl6ox4llWce2JTwQ-xrZPEsbCUEiQuOlqtsGCTWROxhf3JAQwOV7b0PWuGm3-y0xe1QQXr0NyjhYxm_Bh3eRyHodSl6BgUNyR_gxjW9BxRi2gvVsYKsveWQb0U67IN9kutiMUtx-9hIyuGQDsdTMa2NmYXa8pogT23WyKos-nW3JlJBDfZ1Z9JQFroLb9JTvWFNi121Pf0GOOyHAmTD9odHcPoPicgAxdKUVQQyO-b3W7bGHci3f7KzFh6vTFQZTD45v-Sc3_o5WeCk83BNv0XkN-swYZvkAnAJoDd5EX4Ke2g04VuD0FwLU-prrqNlt65YqUZ-2g)}</stringProp>
+            <stringProp name="Argument.value">${__P(Token,eyJraWQiOiIzQUNsdlIzNHU3TFc1VnNoUW16U0VrTStKVHNDS1JoeWRya21YUG8rM2trPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1N2x0djdranUwMGRmYjVtMTIzZ2phNWxtZSIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiZGF0YXBvaW50XC9kZXZpY2VfbWF0Y2hfbm90aWZ5IGRhdGFwb2ludFwvZGV2aWNlX21hdGNoX3JlZGlyZWN0IGRhdGFwb2ludFwvbGFzdF9uYW1lIGRhdGFwb2ludFwvYWdlX2lzX2dyZWF0ZXJfdGhhbiBkYXRhcG9pbnRcL2ZpcnN0X25hbWUgZGF0YXBvaW50XC9zaW1fc3dhcCBkYXRhcG9pbnRcL2NhbGxfZndkIGRhdGFwb2ludFwvZGF0ZV9vZl9iaXJ0aCBkYXRhcG9pbnRcL3Bvc3RhbF9jb2RlIGRhdGFwb2ludFwvZGV2aWNlX21hdGNoIGRhdGFwb2ludFwvaG91c2VfbnVtYmVyIiwiYXV0aF90aW1lIjoxNzAyMTE0NTMwLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cL2V1LXdlc3QtMV8yblgxYlo0M2IiLCJleHAiOjE3MDIyMDA5MzAsImlhdCI6MTcwMjExNDUzMCwidmVyc2lvbiI6MiwianRpIjoiMDdhZmMyM2UtN2I1Yy00OTY0LWIwM2QtOWNhNTliZGY3N2EyIiwiY2xpZW50X2lkIjoiNTdsdHY3a2p1MDBkZmI1bTEyM2dqYTVsbWUifQ.ZrdHPsWitbvk4jO1OWae_sslVMB_CU3_Rld4q6gndmlmjL10oPTulbIJ_mnS5GcC8dH5WZM5Ingxl1PCcHFfCGwZxY5k9gojPNxaiGqjvr9A5hc__OI-pF3Rb6OYQX15SOOAv-rn5lCqSCAAidh8cjwsSbEoBH-iftA9hX7cb0E86ziqXDV-bJ9PyP1OsgTmVURmAzvyvhJqAiNYrFVp_mrSgpL3M3gX0XrWkPTNjJqxGu7pKteO7aang3Skf3wLKNDgGiQRwxAtudfoe-NRE3lfIw0_ze5imCneD_G5kyflHr0W2tIDNtCdCHsbvQ1BkYiUuVNlpJ16YQZ6AV9WLQ)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="SQL_Duration" elementType="Argument">
